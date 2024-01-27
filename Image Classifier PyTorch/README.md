@@ -1,6 +1,3 @@
-Certainly! Here's a README.md file based on the provided code:
-
-```markdown
 # AI Programming with Python Project
 
 This project is part of Udacity's AI Programming with Python Nanodegree program. It includes code for an image classifier built with PyTorch, which is later converted into a command line application.
@@ -51,7 +48,4 @@ This file provides utility functions for keeping the Udacity workspace active du
 
 - The `predict.py` script should be used with the `--model alexnet` argument when using the provided checkpoint trained on alexnet. For VGG, a separate checkpoint should be created.
 
-Feel free to explore and modify the code as needed for your specific use case. Happy coding!
 ```
-
-You can copy and paste this content into your README.md file. Adjustments can be made based on your preferences or any additional details you want to include.
